@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - The entry point of all C code
+ * main - The code entry point
  *
- * 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
